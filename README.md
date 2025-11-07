@@ -1,6 +1,7 @@
 # simrad_halo20_radar
 
-The `simrad_halo20_radar` package provides ROS2 support for the Simrad Halo20 radar. This package is being developed in ROS2 Humble.
+The `simrad_halo20_radar` package provides ROS2 support for the EdgeTech 1245 sonar, adaptation the work [simrad_halo20_radar](https://github.com/JetSeaAI/simrad_halo20_radar).
+This package is being developed in ROS2 Humble.
 It includes four packages:
 
 - `halo_radar`: Provides core functionalities for interfacing with the Halo radar hardware.
